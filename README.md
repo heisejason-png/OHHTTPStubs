@@ -300,3 +300,4 @@ This project is brought to you by Olivier Halligon and is under MIT License
 It has been inspired by [this article from InfiniteLoop.dk](http://www.infinite-loop.dk/blog/2011/09/using-nsurlprotocol-for-injecting-test-data/)
 _(See also his [GitHub repository](https://github.com/InfiniteLoopDK/ILTesting))_
 
+Created by Jason Scott Heise
